@@ -5182,7 +5182,7 @@
     },
     "Texts": {
       "Eng": "Disintered.",
-      "Rus": ""
+      "Rus": "Разъясняюще"
     }
   },
   {
@@ -6577,7 +6577,7 @@
     },
     "Texts": {
       "Eng": "Expectant.",
-      "Rus": ""
+      "Rus": "Ожидающе"
     }
   },
   {
@@ -6694,7 +6694,7 @@
     },
     "Texts": {
       "Eng": "Fanciful.",
-      "Rus": ""
+      "Rus": "Причудливо"
     }
   },
   {
@@ -6815,7 +6815,7 @@
     },
     "Texts": {
       "Eng": "Fascination.",
-      "Rus": ""
+      "Rus": "Чарующе"
     }
   },
   {
@@ -6872,7 +6872,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fearful."
+      "Eng": "Fearful.",
+      "Rus": "Боязливо"
     }
   },
   {
@@ -6901,7 +6902,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fervent."
+      "Eng": "Fervent.",
+      "Rus": "Воодушевлённо"
     }
   },
   {
@@ -6921,7 +6923,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Festive."
+      "Eng": "Festive.",
+      "Rus": "Ликуя"
     }
   },
   {
@@ -6932,7 +6935,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Flirtatious."
+      "Eng": "Flirtatious.",
+      "Rus": "Кокетливо"
     }
   },
   {
@@ -6946,7 +6950,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Flustered."
+      "Eng": "Flustered.",
+      "Rus": "Недоумённо"
     }
   },
   {
@@ -6960,7 +6965,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Focused."
+      "Eng": "Focused.",
+      "Rus": ""
     }
   },
   {
@@ -7137,7 +7143,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gallant."
+      "Eng": "Gallant.",
+      "Rus": "Галантно."
     }
   },
   {
@@ -7151,7 +7158,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Generous."
+      "Eng": "Generous.",
+      "Rus": "Великодушно."
     }
   },
   {
@@ -7180,7 +7188,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Genuine."
+      "Eng": "Genuine.",
+      "Rus": "Искренне."
     }
   },
   {
@@ -7191,7 +7200,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Giggly."
+      "Eng": "Giggly.",
+      "Rus": "Дурачливо."
     }
   },
   {
@@ -7202,7 +7212,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gleeful."
+      "Eng": "Gleeful.",
+      "Rus": ""
     }
   },
   {
@@ -7213,7 +7224,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Goading."
+      "Eng": "Goading.",
+      "Rus": ""
     }
   },
   {
@@ -7300,7 +7312,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greedy."
+      "Eng": "Greedy.",
+      "Rus": ""
     }
   },
   {
