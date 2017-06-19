@@ -988,7 +988,7 @@
                 "paintgunyellow.activeitem.json": 2
               },
               "raygun": {
-                "raygun.activeitem.json": 2
+                "raygun.activeitem.json": 3
               },
               "snowgun": {
                 "snowgun.activeitem.json": 2
@@ -3408,7 +3408,7 @@
           "electronicgoods.item.json": 2,
           "foodgoods.item.json": 2,
           "medicalgoods.item.json": 2,
-          "militarygoods.item.json": 0
+          "militarygoods.item.json": 2
         },
         "tradingcards": {
           "card01.item.json": 2
@@ -3448,8 +3448,8 @@
         "reedorgan.instrument.json": 2,
         "rockorgan.instrument.json": 2,
         "saxophone.instrument.json": 2,
-        "spaceorgan.instrument.json": 0,
-        "squareorgan.instrument.json": 0,
+        "spaceorgan.instrument.json": 1,
+        "squareorgan.instrument.json": 2,
         "steeldrum.instrument.json": 2,
         "trumpet.instrument.json": 2,
         "violin.instrument.json": 2
@@ -3482,7 +3482,7 @@
         "pressurisedplatform.matitem.json": 1,
         "rock14.matitem.json": 1,
         "sand2.matitem.json": 1,
-        "slopedscrappanel.matitem.json": 0,
+        "slopedscrappanel.matitem.json": 1,
         "temple1.matitem.json": 1,
         "temple2.matitem.json": 1,
         "tribalplatform.matitem.json": 1,
@@ -13096,7 +13096,7 @@
         "floranarena2.questtemplate.json": 3,
         "floranarena3.questtemplate.json": 3,
         "mechunlock.questtemplate.json": 5,
-        "mechupgrade1.questtemplate.json": 0,
+        "mechupgrade1.questtemplate.json": 3,
         "mechupgrade2.questtemplate.json": 0,
         "museumcurator1.questtemplate.json": 3,
         "museumcurator2.questtemplate.json": 3,
